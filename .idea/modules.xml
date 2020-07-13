@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/current-limit-starter/current-limit-starter.iml" filepath="$PROJECT_DIR$/current-limit-starter/current-limit-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/example.iml" filepath="$PROJECT_DIR$/example/example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springboot-current-limit.iml" filepath="$PROJECT_DIR$/.idea/springboot-current-limit.iml" />
+    </modules>
+  </component>
+</project>
